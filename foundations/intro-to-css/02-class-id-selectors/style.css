@@ -1,0 +1,19 @@
+.red_back {
+    background-color: lightcoral;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.med_font{
+    font-size: 24px;
+}
+
+#blue_text{
+    color: blue;
+    font-size: 36px;
+}
+
+#green_back{
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
